@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
+gem 'bootstrap-sass', '2.1'
 gem 'childprocess', '0.3.6'
 
 group :development, :test do
